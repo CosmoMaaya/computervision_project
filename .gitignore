@@ -4,4 +4,6 @@ test_data/
 train_data/
 data/
 saved_models/
+images/
+Another_images/
 *.zip
