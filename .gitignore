@@ -2,4 +2,6 @@ origin/
 masked/
 test_data/
 train_data/
+data/
+saved_models/
 *.zip
